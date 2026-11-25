@@ -6,3 +6,4 @@
 ## 实验环境
 - Ubuntu 22.04.4 LTS, kernel 6.8.0-149-generic
 - Docker 29.1.3, PyTorch 2.5.1+cpu, Ollama 0.40.11
+- 系统编程：TLPI 第44章 pipe_ls_wc
